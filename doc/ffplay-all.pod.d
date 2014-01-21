@@ -1,0 +1,12 @@
+doc/ffplay-all.pod: doc/fftools-common-opts.texi
+doc/ffplay-all.pod: doc/config.texi
+doc/ffplay-all.pod: doc/utils.texi
+doc/ffplay-all.pod: doc/codecs.texi
+doc/ffplay-all.pod: doc/bitstream_filters.texi
+doc/ffplay-all.pod: doc/formats.texi
+doc/ffplay-all.pod: doc/protocols.texi
+doc/ffplay-all.pod: doc/devices.texi
+doc/ffplay-all.pod: doc/resampler.texi
+doc/ffplay-all.pod: doc/scaler.texi
+doc/ffplay-all.pod: doc/filters.texi
+doc/ffplay-all.pod: doc/authors.texi
